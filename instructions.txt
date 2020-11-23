@@ -19,7 +19,7 @@ Define five SDLC moldels (methodology).
 5. Spiral Model - Goes through planning, design, build and test over and over to keep improving
 
 Take one of the SDLC models and explain the implementation process.
-
+For the spiral model, they plan what they are going to do, design how they want to make it, then they make it and test it. They then repeat that process over and over so they keep improving the product.
 
 Describe how to apply SDLC model in the version control App.
-
+You can apply this model to our version control app by first figuring out what we are supposed to create, then try to determine what I need to create the app. Then you figure out how you want your app to look and how you want to code it, then you create it. Next you test it to make sure everything is working, and if not, how to fix it then test it again and again until you have everything working. Then you are done and can submit it.
