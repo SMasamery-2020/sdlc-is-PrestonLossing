@@ -12,7 +12,11 @@ What are the stages of SDLC? explain
 6 Deployment - Launch the product so users can use it
 
 Define five SDLC moldels (methodology).
-
+1. Waterfall Model - Finish one phase then move on to the next
+2. Agile Model - Delivers a product very fast to get feedback from users and change as needed
+3. Interative Model - Create a version very fast then keep testing and improving it
+4. Big Bang Model - Doesnt really follow a process, just focuses everything on building the code/software
+5. Spiral Model - Goes through planning, design, build and test over and over to keep improving
 
 Take one of the SDLC models and explain the implementation process.
 
