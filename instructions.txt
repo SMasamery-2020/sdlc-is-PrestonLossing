@@ -4,12 +4,12 @@ What is SDLC?
 The Software Development Life Cycle - A process that produces software with the highest quality, lowest cost, and shortest time possible
 
 What are the stages of SDLC? explain 
-1. Requirement Analysis - 
-2. Planning
-3. Software Design
-4. Software Development
-5. Testing
-6 Deployment
+1. Requirement Analysis - Identify what the task is and what it will do
+2. Planning - Determine the cost and recources needed
+3. Software Design - Figuring out and planning how you are going to actally code the software
+4. Software Development - Actually creating the code/software
+5. Testing - Test for defects and bugs and fix them
+6 Deployment - Launch the product so users can use it
 
 Define five SDLC moldels (methodology).
 
